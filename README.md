@@ -24,8 +24,6 @@
 </p>
 </div>
 
-<h2 align="center">💻 Tech Stack</h2>
-
 <div align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=ts,js,java,php,python,dotnet,react,nextjs,tailwindcss,nodejs,mongodb,mysql,git,docker,figma&perline=15" />
