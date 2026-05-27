@@ -24,6 +24,8 @@
 </p>
 </div>
 
+<h2 align="center">💻 Tech Stack</h2>
+
 <div align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=ts,js,java,php,python,dotnet,react,nextjs,tailwindcss,nodejs,mongodb,mysql,git,docker,figma&perline=15" />
@@ -31,17 +33,6 @@
 </div>
 
 <br/>
-
-<h2 align="center">💖 Featured Repositories</h2>
-
-<div align="center">
-  <a href="https://github.com/lightning09512/CryptoNest-Wallet">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=lightning09512&repo=CryptoNest-Wallet&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" />
-  </a>
-  <a href="https://github.com/lightning09512/Drone-Assemble">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=lightning09512&repo=Drone-Assemble&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" />
-  </a>
-</div>
 
 <h2 align="center">📊 Code Activity Wakatime</h2>
 
