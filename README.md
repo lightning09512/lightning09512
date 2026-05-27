@@ -23,13 +23,6 @@
 
 <br/>
 
-<h2 align="center">📈 GitHub Activity & Stats</h2>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=lightning09512&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lightning09512&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=6" alt="Top Languages" />
-</div>
-
 <h2 align="center">💖 Featured Repositories</h2>
 
 <div align="center">
@@ -41,6 +34,14 @@
   </a>
 </div>
 
-<br/>
+<h2 align="center">📊 Code Activity Wakatime</h2>
 
-<!-- Mẹo: Để có được bảng "Code Activity Wakatime" giống như trong hình bạn gửi, bạn cần tạo tài khoản WakaTime (https://wakatime.com/), cài extension WakaTime vào VS Code, sau đó sử dụng GitHub Actions (ví dụ: athul/waka-readme) để tự động cập nhật thống kê vào README.md mỗi ngày. -->
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
+<h2 align="center">📈 GitHub Activity & Stats</h2>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=lightning09512&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lightning09512&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=6" alt="Top Languages" />
+</div>
