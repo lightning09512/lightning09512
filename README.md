@@ -35,42 +35,40 @@
 <h2 align="center">📊 Code Activity Wakatime</h2>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue?style=flat)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-564.25%20thousand%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-220.43%20thousand%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 137.7 kB Used in GitHub's Storage 
+> 📦 134.8 kB Used in GitHub's Storage 
  > 
-> 🏆 89 Contributions in the Year 2026
+> 🏆 76 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 16 Public Repositories 
+> 📜 10 Public Repositories 
  > 
 > 🔑 2 Private Repositories 
  > 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                18 commits          █████░░░░░░░░░░░░░░░░░░░░   20.93 % 
-🌆 Daytime                27 commits          ████████░░░░░░░░░░░░░░░░░   31.40 % 
-🌃 Evening                19 commits          ██████░░░░░░░░░░░░░░░░░░░   22.09 % 
-🌙 Night                  22 commits          ██████░░░░░░░░░░░░░░░░░░░   25.58 % 
+🌞 Morning                16 commits          █████░░░░░░░░░░░░░░░░░░░░   19.28 % 
+🌆 Daytime                30 commits          █████████░░░░░░░░░░░░░░░░   36.14 % 
+🌃 Evening                18 commits          █████░░░░░░░░░░░░░░░░░░░░   21.69 % 
+🌙 Night                  19 commits          ██████░░░░░░░░░░░░░░░░░░░   22.89 % 
 ```
 📅 **I'm Most Productive on Wednesday** 
 
 ```text
-Monday                   10 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.63 % 
-Tuesday                  18 commits          █████░░░░░░░░░░░░░░░░░░░░   20.93 % 
-Wednesday                21 commits          ██████░░░░░░░░░░░░░░░░░░░   24.42 % 
-Thursday                 14 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.28 % 
-Friday                   15 commits          ████░░░░░░░░░░░░░░░░░░░░░   17.44 % 
-Saturday                 7 commits           ██░░░░░░░░░░░░░░░░░░░░░░░   08.14 % 
-Sunday                   1 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.16 % 
+Monday                   9 commits           ███░░░░░░░░░░░░░░░░░░░░░░   10.84 % 
+Tuesday                  17 commits          █████░░░░░░░░░░░░░░░░░░░░   20.48 % 
+Wednesday                25 commits          ████████░░░░░░░░░░░░░░░░░   30.12 % 
+Thursday                 10 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.05 % 
+Friday                   14 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.87 % 
+Saturday                 7 commits           ██░░░░░░░░░░░░░░░░░░░░░░░   08.43 % 
+Sunday                   1 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.20 % 
 ```
 
 
@@ -80,14 +78,15 @@ Sunday                   1 commits           ░░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Ho_Chi_Minh
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Markdown                 6 mins              █████████████████████████   99.87 % 
+Python                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  6 mins              █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 27/05/2026 09:17:38 UTC
+ Last Updated on 28/05/2026 03:52:05 UTC
 <!--END_SECTION:waka-->
 
 <h2 align="center">📈 GitHub Activity & Stats</h2>
