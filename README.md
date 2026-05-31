@@ -80,15 +80,16 @@ Sunday                   1 commits           ░░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Ho_Chi_Minh
 
 💬 Programming Languages: 
-Markdown                 6 mins              █████████████████████████   99.87 % 
-Python                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 % 
+XML                      7 mins              ██████████████░░░░░░░░░░░   54.92 % 
+Markdown                 6 mins              ███████████░░░░░░░░░░░░░░   45.02 % 
+Python                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 % 
 
 🔥 Editors: 
-VS Code                  6 mins              █████████████████████████   100.00 % 
+VS Code                  13 mins             █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 30/05/2026 03:38:52 UTC
+ Last Updated on 31/05/2026 04:05:01 UTC
 <!--END_SECTION:waka-->
 
 <h2 align="center">📈 GitHub Activity & Stats</h2>
