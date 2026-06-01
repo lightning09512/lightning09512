@@ -93,10 +93,3 @@ VS Code                  14 mins             ███████████�
 
  Last Updated on 01/06/2026 04:19:32 UTC
 <!--END_SECTION:waka-->
-
-<h2 align="center">📈 GitHub Activity & Stats</h2>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=lightning09512&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lightning09512&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=6" alt="Top Languages" />
-</div>
