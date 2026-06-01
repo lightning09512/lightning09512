@@ -35,7 +35,7 @@
 <h2 align="center">📊 Code Activity Wakatime</h2>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-4%20hrs%207%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-4%20hrs%2014%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-21-blue?style=flat)
 
@@ -80,16 +80,18 @@ Sunday                   1 commits           ░░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Ho_Chi_Minh
 
 💬 Programming Languages: 
-XML                      7 mins              ██████████████░░░░░░░░░░░   54.92 % 
-Markdown                 6 mins              ███████████░░░░░░░░░░░░░░   45.02 % 
+XML                      7 mins              █████████████░░░░░░░░░░░░   53.13 % 
+Markdown                 6 mins              ███████████░░░░░░░░░░░░░░   43.54 % 
+Java                     0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   02.81 % 
+SQL                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.46 % 
 Python                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 % 
 
 🔥 Editors: 
-VS Code                  13 mins             █████████████████████████   100.00 % 
+VS Code                  14 mins             █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 31/05/2026 04:05:01 UTC
+ Last Updated on 01/06/2026 04:19:32 UTC
 <!--END_SECTION:waka-->
 
 <h2 align="center">📈 GitHub Activity & Stats</h2>
