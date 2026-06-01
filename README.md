@@ -15,7 +15,7 @@
     <a href="https://github.com/lightning09512">github</a> .
     <a href="https://www.linkedin.com/in/kh%C3%A1nh-nguy%E1%BB%85n-minh-qu%E1%BB%91c-777b88411/">linkedin</a> .
     <a href="https://www.facebook.com/khanh.nguyen.390080">facebook</a> .
-    <a href="https://www.instagram.com/lightning095/">instagram</a>
+    <a href="https://www.instagram.com/lightning095/">instagram</a> .
     <a href="mailto:ng.minhquockhanh@gmail.com">mail</a>
   </samp>
 </p>
