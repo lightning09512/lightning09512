@@ -79,16 +79,14 @@ Sunday                   1 commits           ░░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Ho_Chi_Minh
 
 💬 Programming Languages: 
-XML                      7 mins              █████████████░░░░░░░░░░░░   53.13 % 
-Markdown                 6 mins              ███████████░░░░░░░░░░░░░░   43.54 % 
-Java                     0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   02.81 % 
-SQL                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.46 % 
-Python                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 % 
+XML                      7 mins              ████████████████████████░   94.19 % 
+Java                     0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   04.99 % 
+SQL                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.82 % 
 
 🔥 Editors: 
-VS Code                  14 mins             █████████████████████████   100.00 % 
+VS Code                  8 mins              █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 04/06/2026 04:16:57 UTC
+ Last Updated on 05/06/2026 04:01:01 UTC
 <!--END_SECTION:waka-->
