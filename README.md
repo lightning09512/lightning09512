@@ -34,9 +34,9 @@
 <h2 align="center">📊 Code Activity Wakatime</h2>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-5%20hrs%2048%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-6%20hrs%208%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-15-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-14-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-230.28%20thousand%20lines%20of%20code-blue?style=flat)
 
@@ -79,16 +79,16 @@ Sunday                   1 commits           ░░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Ho_Chi_Minh
 
 💬 Programming Languages: 
-Python                   38 mins             ███████████████░░░░░░░░░░   61.14 % 
-TypeScript               10 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.01 % 
-Vue                      7 mins              ███░░░░░░░░░░░░░░░░░░░░░░   11.21 % 
-Other                    5 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.69 % 
-JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.28 % 
+Python                   1 hr 3 mins         ███████████████████░░░░░░   77.17 % 
+TypeScript               10 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.87 % 
+Vue                      7 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.48 % 
+JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.97 % 
+SQL                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.45 % 
 
 🔥 Editors: 
-VS Code                  1 hr 2 mins         █████████████████████████   100.00 % 
+VS Code                  1 hr 22 mins        █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 13/06/2026 04:00:53 UTC
+ Last Updated on 14/06/2026 04:19:33 UTC
 <!--END_SECTION:waka-->
