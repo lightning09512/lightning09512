@@ -34,7 +34,7 @@
 <h2 align="center">📊 Code Activity Wakatime</h2>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-6%20hrs%2033%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-6%20hrs%2045%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-14-blue?style=flat)
 
@@ -42,7 +42,7 @@
 
 **🐱 My GitHub Data** 
 
-> 📦 236.9 kB Used in GitHub's Storage 
+> 📦 253.9 kB Used in GitHub's Storage 
  > 
 > 🏆 117 Contributions in the Year 2026
  > 
@@ -79,16 +79,16 @@ Sunday                   6 commits           █░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Ho_Chi_Minh
 
 💬 Programming Languages: 
-Python                   1 hr 9 mins         ████████████████████░░░░░   78.58 % 
-TypeScript               10 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.08 % 
-Vue                      7 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.96 % 
-JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.91 % 
-SQL                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.42 % 
+Python                   2 hrs 8 mins        ████████████████░░░░░░░░░   62.17 % 
+Markdown                 25 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.29 % 
+Vue                      11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.70 % 
+TypeScript               10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.14 % 
+CSS                      9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.61 % 
 
 🔥 Editors: 
-VS Code                  1 hr 27 mins        █████████████████████████   100.00 % 
+VS Code                  3 hrs 26 mins       █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 15/06/2026 04:42:32 UTC
+ Last Updated on 16/06/2026 04:26:15 UTC
 <!--END_SECTION:waka-->
