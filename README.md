@@ -38,13 +38,13 @@
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-11-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-232.77%20thousand%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-233.23%20thousand%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 253.9 kB Used in GitHub's Storage 
+> 📦 254.3 kB Used in GitHub's Storage 
  > 
-> 🏆 117 Contributions in the Year 2026
+> 🏆 121 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -55,21 +55,21 @@
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                24 commits          █████░░░░░░░░░░░░░░░░░░░░   18.32 % 
-🌆 Daytime                55 commits          ██████████░░░░░░░░░░░░░░░   41.98 % 
-🌃 Evening                29 commits          ██████░░░░░░░░░░░░░░░░░░░   22.14 % 
-🌙 Night                  23 commits          ████░░░░░░░░░░░░░░░░░░░░░   17.56 % 
+🌞 Morning                24 commits          ████░░░░░░░░░░░░░░░░░░░░░   17.78 % 
+🌆 Daytime                58 commits          ███████████░░░░░░░░░░░░░░   42.96 % 
+🌃 Evening                30 commits          ██████░░░░░░░░░░░░░░░░░░░   22.22 % 
+🌙 Night                  23 commits          ████░░░░░░░░░░░░░░░░░░░░░   17.04 % 
 ```
 📅 **I'm Most Productive on Tuesday** 
 
 ```text
-Monday                   23 commits          ████░░░░░░░░░░░░░░░░░░░░░   17.56 % 
-Tuesday                  38 commits          ███████░░░░░░░░░░░░░░░░░░   29.01 % 
-Wednesday                25 commits          █████░░░░░░░░░░░░░░░░░░░░   19.08 % 
-Thursday                 10 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.63 % 
-Friday                   16 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.21 % 
-Saturday                 13 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.92 % 
-Sunday                   6 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   04.58 % 
+Monday                   23 commits          ████░░░░░░░░░░░░░░░░░░░░░   17.04 % 
+Tuesday                  38 commits          ███████░░░░░░░░░░░░░░░░░░   28.15 % 
+Wednesday                29 commits          █████░░░░░░░░░░░░░░░░░░░░   21.48 % 
+Thursday                 10 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.41 % 
+Friday                   16 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.85 % 
+Saturday                 13 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.63 % 
+Sunday                   6 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   04.44 % 
 ```
 
 
@@ -79,16 +79,17 @@ Sunday                   6 commits           █░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Ho_Chi_Minh
 
 💬 Programming Languages: 
-Python                   2 hrs 8 mins        ██████████████████████░░░   86.81 % 
-PowerShell               8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.50 % 
-Markdown                 6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.64 % 
-YAML                     3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.70 % 
-SQL                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.25 % 
+Python                   2 hrs 58 mins       ██████████████████░░░░░░░   70.72 % 
+Markdown                 59 mins             ██████░░░░░░░░░░░░░░░░░░░   23.57 % 
+PowerShell               8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.22 % 
+YAML                     4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.71 % 
+JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.34 % 
 
 🔥 Editors: 
-VS Code                  2 hrs 28 mins       █████████████████████████   100.00 % 
+VS Code                  4 hrs 10 mins       █████████████████████████   99.39 % 
+Antigravityide           1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.61 % 
 ```
 
 
- Last Updated on 17/06/2026 04:20:59 UTC
+ Last Updated on 18/06/2026 04:13:27 UTC
 <!--END_SECTION:waka-->
