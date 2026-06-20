@@ -36,7 +36,7 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-9%20hrs%2053%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-11-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-10-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-233.59%20thousand%20lines%20of%20code-blue?style=flat)
 
@@ -79,17 +79,17 @@ Sunday                   6 commits           █░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Ho_Chi_Minh
 
 💬 Programming Languages: 
-Python                   2 hrs 51 mins       █████████████████░░░░░░░░   69.98 % 
-Markdown                 59 mins             ██████░░░░░░░░░░░░░░░░░░░   24.30 % 
-PowerShell               8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.32 % 
-YAML                     4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.76 % 
-JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.35 % 
+Python                   2 hrs 49 mins       ████████████████░░░░░░░░░   63.99 % 
+Markdown                 1 hr 21 mins        ████████░░░░░░░░░░░░░░░░░   30.74 % 
+PowerShell               8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.06 % 
+YAML                     4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.62 % 
+JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.32 % 
 
 🔥 Editors: 
-VS Code                  4 hrs 3 mins        █████████████████████████   99.37 % 
-Antigravityide           1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.63 % 
+VS Code                  4 hrs 24 mins       █████████████████████████   99.42 % 
+Antigravityide           1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.58 % 
 ```
 
 
- Last Updated on 19/06/2026 04:41:27 UTC
+ Last Updated on 20/06/2026 03:55:42 UTC
 <!--END_SECTION:waka-->
