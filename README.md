@@ -34,17 +34,17 @@
 <h2 align="center">📊 Code Activity Wakatime</h2>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-10%20hrs%2048%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-12%20hrs%2053%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-252.03%20thousand%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-265.26%20thousand%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 254.5 kB Used in GitHub's Storage 
+> 📦 254.6 kB Used in GitHub's Storage 
  > 
-> 🏆 130 Contributions in the Year 2026
+> 🏆 140 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -55,21 +55,21 @@
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                27 commits          █████░░░░░░░░░░░░░░░░░░░░   18.88 % 
-🌆 Daytime                61 commits          ███████████░░░░░░░░░░░░░░   42.66 % 
-🌃 Evening                30 commits          █████░░░░░░░░░░░░░░░░░░░░   20.98 % 
-🌙 Night                  25 commits          ████░░░░░░░░░░░░░░░░░░░░░   17.48 % 
+🌞 Morning                28 commits          █████░░░░░░░░░░░░░░░░░░░░   18.30 % 
+🌆 Daytime                61 commits          ██████████░░░░░░░░░░░░░░░   39.87 % 
+🌃 Evening                31 commits          █████░░░░░░░░░░░░░░░░░░░░   20.26 % 
+🌙 Night                  33 commits          █████░░░░░░░░░░░░░░░░░░░░   21.57 % 
 ```
 📅 **I'm Most Productive on Tuesday** 
 
 ```text
-Monday                   23 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.08 % 
-Tuesday                  41 commits          ███████░░░░░░░░░░░░░░░░░░   28.67 % 
-Wednesday                31 commits          █████░░░░░░░░░░░░░░░░░░░░   21.68 % 
-Thursday                 10 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.99 % 
-Friday                   19 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.29 % 
-Saturday                 13 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.09 % 
-Sunday                   6 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   04.20 % 
+Monday                   23 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.03 % 
+Tuesday                  41 commits          ███████░░░░░░░░░░░░░░░░░░   26.80 % 
+Wednesday                32 commits          █████░░░░░░░░░░░░░░░░░░░░   20.92 % 
+Thursday                 19 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.42 % 
+Friday                   19 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.42 % 
+Saturday                 13 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.50 % 
+Sunday                   6 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   03.92 % 
 ```
 
 
@@ -79,16 +79,16 @@ Sunday                   6 commits           █░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Ho_Chi_Minh
 
 💬 Programming Languages: 
-Markdown                 2 hrs 16 mins       ███████████░░░░░░░░░░░░░░   43.74 % 
-Python                   2 hrs 13 mins       ███████████░░░░░░░░░░░░░░   43.06 % 
-Other                    18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.81 % 
-Text                     16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.27 % 
-PlantUML                 3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.26 % 
+Markdown                 1 hr 38 mins        ███████░░░░░░░░░░░░░░░░░░   27.62 % 
+Python                   1 hr 17 mins        █████░░░░░░░░░░░░░░░░░░░░   21.84 % 
+TypeScript               1 hr 4 mins         █████░░░░░░░░░░░░░░░░░░░░   18.06 % 
+JavaScript               34 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.63 % 
+Other                    25 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.27 % 
 
 🔥 Editors: 
-Antigravity IDE          5 hrs 11 mins       █████████████████████████   100.00 % 
+Antigravity IDE          5 hrs 55 mins       █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 24/06/2026 03:49:49 UTC
+ Last Updated on 25/06/2026 03:50:15 UTC
 <!--END_SECTION:waka-->
