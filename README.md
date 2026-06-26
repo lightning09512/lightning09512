@@ -34,7 +34,7 @@
 <h2 align="center">📊 Code Activity Wakatime</h2>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-12%20hrs%2053%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-15%20hrs%2028%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -42,7 +42,7 @@
 
 **🐱 My GitHub Data** 
 
-> 📦 254.6 kB Used in GitHub's Storage 
+> 📦 254.7 kB Used in GitHub's Storage 
  > 
 > 🏆 140 Contributions in the Year 2026
  > 
@@ -79,16 +79,16 @@ Sunday                   6 commits           █░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Ho_Chi_Minh
 
 💬 Programming Languages: 
-Markdown                 1 hr 38 mins        ███████░░░░░░░░░░░░░░░░░░   27.62 % 
-Python                   1 hr 17 mins        █████░░░░░░░░░░░░░░░░░░░░   21.84 % 
-TypeScript               1 hr 4 mins         █████░░░░░░░░░░░░░░░░░░░░   18.06 % 
-JavaScript               34 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.63 % 
-Other                    25 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.27 % 
+TypeScript               2 hrs 21 mins       █████░░░░░░░░░░░░░░░░░░░░   21.72 % 
+Markdown                 1 hr 58 mins        █████░░░░░░░░░░░░░░░░░░░░   18.23 % 
+JavaScript               1 hr 53 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.39 % 
+CSS                      1 hr 50 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.99 % 
+Python                   1 hr 17 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.93 % 
 
 🔥 Editors: 
-Antigravity IDE          5 hrs 55 mins       █████████████████████████   100.00 % 
+Antigravity IDE          10 hrs 50 mins      █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 25/06/2026 03:50:15 UTC
+ Last Updated on 26/06/2026 03:56:53 UTC
 <!--END_SECTION:waka-->
