@@ -79,14 +79,13 @@ Sunday                   6 commits           █░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Ho_Chi_Minh
 
 💬 Programming Languages: 
-Python                   25 mins             ████████████████░░░░░░░░░   63.78 % 
-Other                    11 mins             ███████░░░░░░░░░░░░░░░░░░   29.54 % 
-Java                     2 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.68 % 
+Python                   25 mins             ██████████████████████░░░   88.12 % 
+Other                    3 mins              ███░░░░░░░░░░░░░░░░░░░░░░   11.88 % 
 
 🔥 Editors: 
-Antigravity IDE          36 mins             █████████████████████████   100.00 % 
+Antigravity IDE          25 mins             █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 05/07/2026 03:38:29 UTC
+ Last Updated on 06/07/2026 03:46:31 UTC
 <!--END_SECTION:waka-->
