@@ -34,10 +34,6 @@
 <h2 align="center">📊 Code Activity Wakatime</h2>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-20%20hrs%2047%20mins-blue?style=flat)
-
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-17%20hrs%2011%20mins-blue?style=flat)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-265.26%20thousand%20lines%20of%20code-blue?style=flat)
@@ -54,45 +50,6 @@
  > 
 > 🔑 3 Private Repositories 
  > 
-**I'm an Early 🐤** 
 
-```text
-🌞 Morning                28 commits          █████░░░░░░░░░░░░░░░░░░░░   18.30 % 
-🌆 Daytime                61 commits          ██████████░░░░░░░░░░░░░░░   39.87 % 
-🌃 Evening                31 commits          █████░░░░░░░░░░░░░░░░░░░░   20.26 % 
-🌙 Night                  33 commits          █████░░░░░░░░░░░░░░░░░░░░   21.57 % 
-```
-📅 **I'm Most Productive on Tuesday** 
-
-```text
-Monday                   23 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.03 % 
-Tuesday                  41 commits          ███████░░░░░░░░░░░░░░░░░░   26.80 % 
-Wednesday                32 commits          █████░░░░░░░░░░░░░░░░░░░░   20.92 % 
-Thursday                 19 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.42 % 
-Friday                   19 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.42 % 
-Saturday                 13 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.50 % 
-Sunday                   6 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   03.92 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Ho_Chi_Minh
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-```
-
-🤖 **AI Coding This Week** 
-
-```text
-No AI Coding Activity Tracked This Week
-```
-
-
- Last Updated on 06/08/2026 02:43:16 UTC
+ Last Updated on 07/08/2026 02:45:18 UTC
 <!--END_SECTION:waka-->
