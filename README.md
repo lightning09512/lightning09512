@@ -34,9 +34,9 @@
 <h2 align="center">📊 Code Activity Wakatime</h2>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-22%20hrs%204%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-22%20hrs%206%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-18%20hrs%2029%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-18%20hrs%2030%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -81,36 +81,32 @@ Sunday                   6 commits           █░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Ho_Chi_Minh
 
 💬 Programming Languages: 
-Python                   46 mins             ████████████████████░░░░░   79.36 % 
-Other                    10 mins             █████░░░░░░░░░░░░░░░░░░░░   18.65 % 
-C#                       1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.98 % 
+C#                       4 mins              █████████████████████████   100.00 % 
 
 🔥 Editors: 
-Antigravity IDE          57 mins             █████████████████████████   100.00 % 
+Antigravity IDE          4 mins              █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 57 mins (100.0%)
+⏱ AI Coding Time: 4 mins (100.0%)
 
-✍️ 4 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 0 lines written by AI, 0 lines written by hand (0% AI-written)
 
 🔤 0 Input Tokens, 0 Output Tokens
 
 💵 $0.00 Estimated AI Cost This Week
 
-🧠 2 AI Sessions, 14 AI Prompts
-
-Opus                     4 lines             █████████████████████████   100.00 % 
+🧠 2 AI Sessions, 3 AI Prompts
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 100.0% of written lines came from AI
-📝 Concise Prompter — average 146 characters per prompt
-🔁 Iterative Prompter — average 7 prompts per session
-🚀 High AI Trust — 0.0% of changed lines were hand-edited
+🧑‍💻 Mostly Hands-On — 0% of written lines came from AI
+📝 Concise Prompter — average 19 characters per prompt
+🔁 Iterative Prompter — average 2 prompts per session
+🚀 High AI Trust — 0% of changed lines were hand-edited
 ```
 
 
- Last Updated on 03/09/2026 03:30:26 UTC
+ Last Updated on 04/09/2026 03:28:22 UTC
 <!--END_SECTION:waka-->
