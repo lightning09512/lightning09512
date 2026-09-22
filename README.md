@@ -81,16 +81,20 @@ Sunday                   6 commits           █░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Ho_Chi_Minh
 
 💬 Programming Languages: 
-Bash                     29 mins             █████████████████████████   100.00 % 
+PowerShell               35 mins             █████████░░░░░░░░░░░░░░░░   34.32 % 
+Python                   31 mins             ███████░░░░░░░░░░░░░░░░░░   29.75 % 
+Bash                     29 mins             ███████░░░░░░░░░░░░░░░░░░   28.55 % 
+SQL                      3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.72 % 
+Markdown                 2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.74 % 
 
 🔥 Editors: 
-Antigravity IDE          29 mins             █████████████████████████   100.00 % 
+Antigravity IDE          1 hr 44 mins        █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 29 mins (100.0%)
+⏱ AI Coding Time: 1 hr 44 mins (100.0%)
 
 ✍️ 0 lines written by AI, 0 lines written by hand (0% AI-written)
 
@@ -98,15 +102,17 @@ Antigravity IDE          29 mins             ███████████�
 
 💵 $0.00 Estimated AI Cost This Week
 
-🧠 1 AI Sessions, 1 AI Prompts
+🧠 2 AI Sessions, 18 AI Prompts
+
+Opus                     110 lines           █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
 🧑‍💻 Mostly Hands-On — 0% of written lines came from AI
-📚 Verbose Prompter — average 2,967 characters per prompt
-🎯 One-Shot Prompter — average 1 prompts per session
-🚀 High AI Trust — 0% of changed lines were hand-edited
+📝 Concise Prompter — average 397 characters per prompt
+🔁 Iterative Prompter — average 9 prompts per session
+🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
 
- Last Updated on 21/09/2026 03:55:36 UTC
+ Last Updated on 22/09/2026 03:52:38 UTC
 <!--END_SECTION:waka-->
