@@ -81,14 +81,15 @@ Sunday                   6 commits           █░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Ho_Chi_Minh
 
 💬 Programming Languages: 
-PowerShell               35 mins             █████████░░░░░░░░░░░░░░░░   34.32 % 
-Python                   31 mins             ███████░░░░░░░░░░░░░░░░░░   29.75 % 
-Bash                     29 mins             ███████░░░░░░░░░░░░░░░░░░   28.55 % 
-SQL                      3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.72 % 
-Markdown                 2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.74 % 
+Python                   37 mins             █████████░░░░░░░░░░░░░░░░   36.07 % 
+PowerShell               35 mins             █████████░░░░░░░░░░░░░░░░   34.46 % 
+Java                     17 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.06 % 
+Other                    5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.00 % 
+SQL                      3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.73 % 
 
 🔥 Editors: 
-Antigravity IDE          1 hr 44 mins        █████████████████████████   100.00 % 
+Antigravity IDE          1 hr 37 mins        ███████████████████████░░   93.79 % 
+Codex Vscode             6 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.21 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -96,23 +97,24 @@ Antigravity IDE          1 hr 44 mins        ███████████�
 ```text
 ⏱ AI Coding Time: 1 hr 44 mins (100.0%)
 
-✍️ 0 lines written by AI, 0 lines written by hand (0% AI-written)
+✍️ 178 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 0 Input Tokens, 0 Output Tokens
+🔤 88,135 Input Tokens, 15,754 Output Tokens
 
-💵 $0.00 Estimated AI Cost This Week
+💵 $0.74 Estimated AI Cost This Week
 
-🧠 2 AI Sessions, 18 AI Prompts
+🧠 3 AI Sessions, 26 AI Prompts
 
-Opus                     110 lines           █████████████████████████   100.00 % 
+GPT                      178 lines           ███████████████░░░░░░░░░░   61.81 % 
+Opus                     110 lines           ██████████░░░░░░░░░░░░░░░   38.19 % 
 
 🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 0% of written lines came from AI
-📝 Concise Prompter — average 397 characters per prompt
+🤖 AI-Driven — 100.0% of written lines came from AI
+📝 Concise Prompter — average 251 characters per prompt
 🔁 Iterative Prompter — average 9 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
 
- Last Updated on 23/09/2026 03:50:26 UTC
+ Last Updated on 24/09/2026 03:42:35 UTC
 <!--END_SECTION:waka-->
