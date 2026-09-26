@@ -81,23 +81,23 @@ Sunday                   6 commits           █░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Ho_Chi_Minh
 
 💬 Programming Languages: 
-Python                   37 mins             █████████░░░░░░░░░░░░░░░░   36.07 % 
-PowerShell               35 mins             █████████░░░░░░░░░░░░░░░░   34.46 % 
-Java                     17 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.06 % 
-Other                    5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.00 % 
-SQL                      3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.73 % 
+Mermaid                  1 hr 6 mins         █████████░░░░░░░░░░░░░░░░   34.96 % 
+Python                   37 mins             █████░░░░░░░░░░░░░░░░░░░░   19.80 % 
+PowerShell               35 mins             █████░░░░░░░░░░░░░░░░░░░░   18.92 % 
+Java                     17 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.37 % 
+Markdown                 15 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.24 % 
 
 🔥 Editors: 
-Antigravity IDE          1 hr 37 mins        ███████████████████████░░   93.79 % 
-Codex Vscode             6 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.21 % 
+Antigravity IDE          3 hrs 3 mins        ████████████████████████░   96.59 % 
+Codex Vscode             6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.41 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 1 hr 44 mins (100.0%)
+⏱ AI Coding Time: 1 hr 44 mins (54.9%)
 
-✍️ 178 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 178 lines written by AI, 27 lines written by hand (86.83% AI-written)
 
 🔤 88,135 Input Tokens, 15,754 Output Tokens
 
@@ -109,12 +109,12 @@ GPT                      178 lines           ███████████�
 Opus                     110 lines           ██████████░░░░░░░░░░░░░░░   38.19 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 100.0% of written lines came from AI
+🤖 AI-Driven — 86.83% of written lines came from AI
 📝 Concise Prompter — average 251 characters per prompt
 🔁 Iterative Prompter — average 9 prompts per session
-🚀 High AI Trust — 0.0% of changed lines were hand-edited
+🔍 Hands-On Reviewer — 59.21% of changed lines were hand-edited
 ```
 
 
- Last Updated on 25/09/2026 03:58:55 UTC
+ Last Updated on 26/09/2026 04:03:33 UTC
 <!--END_SECTION:waka-->
