@@ -34,7 +34,7 @@
 <h2 align="center">📊 Code Activity Wakatime</h2>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-24%20hrs%2011%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-25%20hrs%2036%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-20%20hrs%2041%20mins-blue?style=flat)
 
@@ -81,40 +81,38 @@ Sunday                   6 commits           █░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Ho_Chi_Minh
 
 💬 Programming Languages: 
-Mermaid                  1 hr 6 mins         █████████░░░░░░░░░░░░░░░░   34.96 % 
-Python                   37 mins             █████░░░░░░░░░░░░░░░░░░░░   19.80 % 
-PowerShell               35 mins             █████░░░░░░░░░░░░░░░░░░░░   18.92 % 
-Java                     17 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.37 % 
-Markdown                 15 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.24 % 
+Mermaid                  1 hr 6 mins         █████████░░░░░░░░░░░░░░░░   36.19 % 
+PowerShell               35 mins             █████░░░░░░░░░░░░░░░░░░░░   19.59 % 
+Python                   31 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.97 % 
+Java                     17 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.70 % 
+Markdown                 15 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.53 % 
 
 🔥 Editors: 
-Antigravity IDE          3 hrs 3 mins        ████████████████████████░   96.59 % 
-Codex Vscode             6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.41 % 
+Antigravity IDE          3 hrs 3 mins        █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 1 hr 44 mins (54.9%)
+⏱ AI Coding Time: 1 hr 37 mins (53.31%)
 
-✍️ 178 lines written by AI, 27 lines written by hand (86.83% AI-written)
+✍️ 0 lines written by AI, 27 lines written by hand (0.0% AI-written)
 
-🔤 88,135 Input Tokens, 15,754 Output Tokens
+🔤 0 Input Tokens, 0 Output Tokens
 
-💵 $0.74 Estimated AI Cost This Week
+💵 $0.00 Estimated AI Cost This Week
 
-🧠 3 AI Sessions, 26 AI Prompts
+🧠 2 AI Sessions, 24 AI Prompts
 
-GPT                      178 lines           ███████████████░░░░░░░░░░   61.81 % 
-Opus                     110 lines           ██████████░░░░░░░░░░░░░░░   38.19 % 
+Opus                     110 lines           █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 86.83% of written lines came from AI
-📝 Concise Prompter — average 251 characters per prompt
-🔁 Iterative Prompter — average 9 prompts per session
-🔍 Hands-On Reviewer — 59.21% of changed lines were hand-edited
+🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
+📝 Concise Prompter — average 198 characters per prompt
+🔁 Iterative Prompter — average 12 prompts per session
+🔍 Hands-On Reviewer — 79.17% of changed lines were hand-edited
 ```
 
 
- Last Updated on 26/09/2026 04:03:33 UTC
+ Last Updated on 27/09/2026 04:17:42 UTC
 <!--END_SECTION:waka-->
