@@ -81,20 +81,20 @@ Sunday                   6 commits           █░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Ho_Chi_Minh
 
 💬 Programming Languages: 
-Mermaid                  1 hr 6 mins         █████████░░░░░░░░░░░░░░░░   36.19 % 
-PowerShell               35 mins             █████░░░░░░░░░░░░░░░░░░░░   19.59 % 
-Python                   31 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.97 % 
-Java                     17 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.70 % 
-Markdown                 15 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.53 % 
+Mermaid                  1 hr 6 mins         ███████████████░░░░░░░░░░   61.10 % 
+Java                     17 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.37 % 
+Markdown                 12 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.75 % 
+Text                     6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.98 % 
+Other                    5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.80 % 
 
 🔥 Editors: 
-Antigravity IDE          3 hrs 3 mins        █████████████████████████   100.00 % 
+Antigravity IDE          1 hr 48 mins        █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 1 hr 37 mins (53.31%)
+⏱ AI Coding Time: 22 mins (21.17%)
 
 ✍️ 0 lines written by AI, 27 lines written by hand (0.0% AI-written)
 
@@ -102,17 +102,15 @@ Antigravity IDE          3 hrs 3 mins        ███████████�
 
 💵 $0.00 Estimated AI Cost This Week
 
-🧠 2 AI Sessions, 24 AI Prompts
-
-Opus                     110 lines           █████████████████████████   100.00 % 
+🧠 1 AI Sessions, 7 AI Prompts
 
 🔎 AI Coding Insights:
 🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
-📝 Concise Prompter — average 198 characters per prompt
-🔁 Iterative Prompter — average 12 prompts per session
-🔍 Hands-On Reviewer — 79.17% of changed lines were hand-edited
+📝 Concise Prompter — average 82 characters per prompt
+🔁 Iterative Prompter — average 7 prompts per session
+🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
 ```
 
 
- Last Updated on 28/09/2026 04:18:20 UTC
+ Last Updated on 29/09/2026 04:49:21 UTC
 <!--END_SECTION:waka-->
