@@ -81,36 +81,20 @@ Sunday                   6 commits           █░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Ho_Chi_Minh
 
 💬 Programming Languages: 
-Mermaid                  1 hr 6 mins         ███████████████░░░░░░░░░░   61.10 % 
-Java                     17 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.37 % 
-Markdown                 12 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.75 % 
-Text                     6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.98 % 
-Other                    5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.80 % 
+Mermaid                  1 hr 6 mins         ███████████████████░░░░░░   77.50 % 
+Markdown                 12 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.91 % 
+Text                     6 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.59 % 
 
 🔥 Editors: 
-Antigravity IDE          1 hr 48 mins        █████████████████████████   100.00 % 
+Antigravity IDE          1 hr 25 mins        █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 22 mins (21.17%)
-
-✍️ 0 lines written by AI, 27 lines written by hand (0.0% AI-written)
-
-🔤 0 Input Tokens, 0 Output Tokens
-
-💵 $0.00 Estimated AI Cost This Week
-
-🧠 1 AI Sessions, 7 AI Prompts
-
-🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
-📝 Concise Prompter — average 82 characters per prompt
-🔁 Iterative Prompter — average 7 prompts per session
-🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
+No AI Coding Activity Tracked This Week
 ```
 
 
- Last Updated on 30/09/2026 04:35:06 UTC
+ Last Updated on 01/10/2026 04:46:35 UTC
 <!--END_SECTION:waka-->
